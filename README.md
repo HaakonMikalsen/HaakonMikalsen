@@ -4,13 +4,13 @@ Jeg studerer en integrert master elektronisk systemdesign og innovasjon ved NTNU
 Jeg er har vært leder i nettsidekomiteen til Sct. Omega broderskap (vevcom) siden august 2025. Jeg har vært med siden 2024. Vi utvikler akkuratt nå ny nettside og jobber hvert år med å lage en auksjonsnettside knyttet til Omega-auksjonen, som er en veldedig auksjon som arrangeres årlig.
 
 ## Kode språk og annen kunnskap
-🟦🟦🟦🟦🟦⬜  **Python**                            <br>
-🟦🟦🟦🟦⬜⬜ **JavaScript / TypeScript**           <br>
-🟦🟦🟦⬜⬜⬜**Arduino (koding + kobling)** <br>
- 🟦🟦🟦⬜⬜⬜ **C++**                               <br>
- 🟦🟦🟦⬜⬜⬜**Linux**                              <br>
- 🟦🟦⬜⬜⬜⬜**Docker**                             <br>
- 🟦🟦🟦🟦🟦🟦**CSS** (kan sentrere en div )         <br>
+Jobbet mye med **Python**                            <br>
+Jobber aktivt med igjennom verv **JavaScript / TypeScript**           <br>
+Jobber med på fritiden og i skole relaterte sammenhenger **Arduino (koding + kobling)** <br>
+Tatt TDT4102 Prosedyre- og objektorientert programmering ved NTNU **C++**                               <br>
+Bruker daglig på personlig pc **Linux**(mint)                          <br>
+Bruker igjennom verv **Docker**                             <br>
+Kan sentrere en div  **CSS**       <br>
 
 
 ## Prosjekter jeg jobber på nå
