@@ -1,7 +1,7 @@
 ## Hei! 👋
 ## Om Meg
 Jeg studerer en integrert master elektronisk systemdesign og innovasjon ved NTNU. Jeg er på mitt andre år. Studerer i Trondheim, men er opprinnelig fra Bodø. <br> 
-Jeg er har vært leder i nettsidekomiteen til Sct. Omega broderskap (vevcom) siden august 2025. Jeg har vært med siden 2024. Vi utvikler akkuratt nå ny nettside og jobber hvert år med å lage en auksjonsnettside knyttet til Omega-auksjonen, som er en veldedig auksjon som arrangeres årlig.
+Jeg er har vært leder i nettsidekomiteen til Sct. Omega broderskap (vevcom) siden august 2025. Jeg har vært med siden 2024. Vi utvikler akkurat nå ny nettside og jobber hvert år med å lage en auksjonsnettside knyttet til Omega-auksjonen, som er en årlig veldedig auksjon.
 
 ## Kode språk og annen kunnskap
 **Python** Jobbet mye med på fritid og i sammenheng med skole                            <br>
@@ -19,8 +19,8 @@ Jeg er har vært leder i nettsidekomiteen til Sct. Omega broderskap (vevcom) sid
 <br>
 ## Prosjekter jeg har jobbet med tidligere
 **Omega-auksjonen 2025** - Prosjektansvarlig og utvikler for auksjonsnettsiden knyttet til Omega-auksjonen 2025. Skrevet i **typescript** med next.js som rammeverk. [lenke](https://github.com/vevcom/Omegaauctionen-2025)) <br>
-**Regnskapsprogramm** - Personlig prosjekt skrevet i **python**. Implementerer teksbasert bruker interface med for å skrive inn utgifter. Bruker stardarister mappe og fil oppsett for å lage en "database", med eb del forbedringspotensiale. [lenke](https://github.com/HaakonMikalsen/regnskapsprogram)<br>
-**Fourier analyse** - Personlig prosjekt skrevet i **python**. Implemnterer den grunnleggende formen for diskret fourier analyse. [lenke](https://github.com/HaakonMikalsen/fourieranalyse) <br>
+**Regnskapsprogram** - Personlig prosjekt skrevet i **python**. Implementerer tekstbasert bruker interface med for å skrive inn utgifter. Bruker standaristert mappe og fil oppsett for å lage en "database", med en del forbedringspotensiale. [lenke](https://github.com/HaakonMikalsen/regnskapsprogram)<br>
+**Fourier analyse** - Personlig prosjekt skrevet i **python**. Implementerer den grunnleggende formen for diskret fourier analyse. [lenke](https://github.com/HaakonMikalsen/fourieranalyse) <br>
 
 ## Kontaktinfo
 📧 hakmikalsen@gmail.com <br>
