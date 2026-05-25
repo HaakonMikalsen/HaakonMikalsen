@@ -15,10 +15,9 @@ Jeg er har vært leder i nettsidekomiteen til Sct. Omega broderskap (vevcom) sid
 
 ## Prosjekter jeg jobber på nå
 **Project Next** - Det nye nettsiden til Sct. Omega broderskap. Skrevet i **typescript** med next.js som rammeverk [lenke](https://github.com/vevcom/projectNext) <br>
-**hjemVectorI** - Personlig prosjekt (Startet nylig). Kombinerer senorer og moduler som bla kompass, gps, "haptic feedback" med vibreringsmotorer. Har som hovedmål å lage et kompass som kan lede deg langs en rute. Bruker **Arduino** [lenke](https://github.com/HaakonMikalsen/hjemVectorI) 
 <br>
 ## Prosjekter jeg har jobbet med tidligere
-**Omega-auksjonen 2025** - Prosjektansvarlig og utvikler for auksjonsnettsiden knyttet til Omega-auksjonen 2025. Skrevet i **typescript** med next.js som rammeverk. [lenke](https://github.com/vevcom/Omegaauctionen-2025)) <br>
+**Omega-auksjonen 2025 og 2026** - Prosjektansvarlig og utvikler for auksjonsnettsiden knyttet til Omega-auksjonen 2025. Skrevet i **typescript** med next.js som rammeverk. [lenke](https://github.com/vevcom/Omegaauctionen-2025)). Videreutviklet siden for 2026 auksjonen <br>
 **Regnskapsprogram** - Personlig prosjekt skrevet i **python**. Implementerer tekstbasert bruker interface med for å skrive inn utgifter. Bruker standaristert mappe og fil oppsett for å lage en "database", med en del forbedringspotensiale. [lenke](https://github.com/HaakonMikalsen/regnskapsprogram)<br>
 **Fourier analyse** - Personlig prosjekt skrevet i **python**. Implementerer den grunnleggende formen for diskret fourier analyse. [lenke](https://github.com/HaakonMikalsen/fourieranalyse) <br>
 
