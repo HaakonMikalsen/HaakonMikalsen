@@ -1,6 +1,6 @@
 ## Hei! 👋
 ## Om Meg
-Jeg studerer en integrert master elektronisk systemdesign og innovasjon ved NTNU. Jeg er på mitt andre år. Studerer i Trondheim, men er opprinnelig fra Bodø. <br> 
+Jeg studerer en integrert master elektronisk systemdesign og innovasjon ved NTNU. Jeg er på mitt tredje år. Studerer i Trondheim, men er opprinnelig fra Bodø. <br> 
 Jeg er har vært leder i nettsidekomiteen til Sct. Omega broderskap (vevcom) siden august 2025. Jeg har vært med siden 2024. Vi utvikler akkurat nå ny nettside og jobber hvert år med å lage en auksjonsnettside knyttet til Omega-auksjonen, som er en årlig veldedig auksjon.
 
 ## Kode språk og annen kunnskap
