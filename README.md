@@ -18,6 +18,7 @@ Jeg er har vært leder i nettsidekomiteen til Sct. Omega broderskap (vevcom) sid
 <br>
 ## Prosjekter jeg har jobbet med tidligere
 **Omega-auksjonen 2025 og 2026** - Prosjektansvarlig og utvikler for auksjonsnettsiden knyttet til Omega-auksjonen 2025. Skrevet i **typescript** med next.js som rammeverk. [lenke](https://github.com/vevcom/Omegaauctionen-2025)). Videreutviklet siden for 2026 auksjonen <br>
+**Echo lift** - Skole prosjekt - Jobbet med **analog signalbehandling** og **dekoding av signaler** fra **akustisk undervannskomunikasjon**. Echo Lift er en prototype av et produkt utviklet i faget Elektronisk systemdesign, prosjekt. Faget besto av å kartlegge en kundes ønsker og problemstillinger og utvikle et produkt for å løse dem. Prototypen består av et undervannskomunikasjonssystem som aktiverer en reservebøye som skal redde opp tapt fiskeutstyr. Prototypen skulle både vise proof of concept og utforske løsninger for å redusere enhets kostnad og påvirkaesle av økosystemet. [Lenke](https://github.com/HaakonMikalsen/Echo_Lift) <br>
 **Regnskapsprogram** - Personlig prosjekt skrevet i **python**. Implementerer tekstbasert bruker interface med for å skrive inn utgifter. Bruker standaristert mappe og fil oppsett for å lage en "database", med en del forbedringspotensiale. [lenke](https://github.com/HaakonMikalsen/regnskapsprogram)<br>
 **Fourier analyse** - Personlig prosjekt skrevet i **python**. Implementerer den grunnleggende formen for diskret fourier analyse. [lenke](https://github.com/HaakonMikalsen/fourieranalyse) <br>
 
